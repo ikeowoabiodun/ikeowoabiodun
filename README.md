@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a data-driven agribusiness analyst with a Master's degree and a strong interest in agricultural economics, food systems, and policy analysis. I use data tools such as Python and SQL to analyze real-world problems and generate insights that support decision-making in agriculture and food security.
+I am a data-driven agribusiness analyst with a Master's degree in Agribusiness and a strong interest in agricultural economics, food systems, and policy analysis. I use data tools such as Python and SQL to analyze real-world problems and generate insights that support decision-making in agriculture and food security.
 
 I have hands-on experience working with real-world datasets, applying analytical techniques to understand price dynamics, market structures, and regional disparities within Nigeria’s food system.
 
