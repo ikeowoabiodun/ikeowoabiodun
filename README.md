@@ -25,13 +25,15 @@ I have hands-on experience working with real-world datasets, applying analytical
 
 ## Featured Project
 
-### Food Price Analysis in Nigeria
+### Selected Work
 
-A data-driven analysis of food price trends across Nigeria using SQL and Python. The project explores commodity prices, regional disparities, and market structures with implications for food security and policy.
+- **Food Price Analysis (Nigeria)**  
+  Analysis of food price trends, regional disparities, and market behavior using SQL and Python.  
+  🔗 https://github.com/ikeowoabiodun/food-price-analysis-nigeria  
 
-🔗 https://github.com/ikeowoabiodun/food-price-analysis-nigeria
-
-🔗 https://github.com/ikeowoabiodun/Technology-Diffusion-in-Genetically-Engineered-Crops-A-Panel-Data-Analysis-of-U.S.-Corn-Adoption.git
+- **GE Crop Adoption Analysis (U.S. Corn)**  
+  Panel data econometric analysis of technology adoption and diffusion in agriculture.  
+  🔗 https://github.com/ikeowoabiodun/ge-crop-adoption-panel-analysis  
 
 
 ## Research Interests
