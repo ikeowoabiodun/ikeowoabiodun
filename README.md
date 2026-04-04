@@ -31,6 +31,9 @@ A data-driven analysis of food price trends across Nigeria using SQL and Python.
 
 🔗 https://github.com/ikeowoabiodun/food-price-analysis-nigeria
 
+🔗 https://github.com/ikeowoabiodun/Technology-Diffusion-in-Genetically-Engineered-Crops-A-Panel-Data-Analysis-of-U.S.-Corn-Adoption.git
+
+
 ## Research Interests
 
 * Agricultural Economics
