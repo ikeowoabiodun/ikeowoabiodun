@@ -42,7 +42,6 @@ I have hands-on experience working with real-world datasets, applying analytical
 * Food Security
 * Market Systems
 * Rural Development
-* Policy Analysis
 
 ## Certifications
 
