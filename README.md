@@ -38,7 +38,7 @@ I have hands-on experience working with real-world datasets, applying analytical
 
 ## Research Interests
 
-* Agricultural Economics
+* Agricultural Policy
 * Food Security
 * Market Systems
 * Rural Development
